@@ -1,10 +1,3 @@
-#!/bin/sh
-
-mkdir ~/.xcowsay
-cd ~/.xcowsay
-git clone https://github.com/trickstival-logcomex/log-xcowsay.git
-cd log-xcowsay
-
 ./build/src/xcowsay A terra é plana --image=./images/logo-logcomex.png
 ./build/src/xcowsay A terra é plana --image=./images/logo-logcomex.png
 ./build/src/xcowsay A terra é plana --image=./images/logo-logcomex.png
